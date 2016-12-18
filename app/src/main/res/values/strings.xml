@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TravelerBlog</string>
+    <string name="button_name">Photo</string>
+    <string name="details_activity">Details</string>
+    <string name="save_button">Save Text</string>
+    <string name="facebook_app_id">272120839800047</string>
+    <string name="google_app_id">AIzaSyANbMKQQwN2JEV4LJ2l50RIbBmx2nCc3j0</string>
+    <string name="share_button">Share</string>
+
+</resources>
